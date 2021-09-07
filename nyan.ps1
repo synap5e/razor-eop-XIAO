@@ -3,5 +3,7 @@ $stream = $socket.GetStream()
 $reader = New-Object System.IO.StreamReader($stream)
 $encoding = New-Object System.Text.AsciiEncoding
 while (($line = $reader.ReadLine()) -ne $null) {
-    $line.Length
+ if ($line.Length -gt 1){
+  $line
+ }
 }
