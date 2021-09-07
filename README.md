@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/2515062/132268952-057c93f4-9aee-4d4b-af35-2ac3cd875253.mp4
+
 Designed for https://wiki.seeedstudio.com/Seeeduino-XIAO/, but should work on any board that can run circuitpython and has USB.
 
 Either compile your own, or use `Seeeduino_XIAO_fake_razor_firmware.uf2` if you are using the Seeeduino XIAO.
